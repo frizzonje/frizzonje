@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.tenor.com/QqQT9PO4tXQAAAAM/hello-chat-hello.gif" width="100"/>
-  <h1>Привет, я Никита! 👋 (@frizzonje)</h1>
+  <h1>Привет, я Никита!</h1>
 
 [Telegram](https://t.me/frizz)
 
